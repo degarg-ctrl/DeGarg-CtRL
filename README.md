@@ -112,47 +112,6 @@ I care about making behaviour explainable and testable — especially when a sys
 
 <br>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**BACKEND**
-
-REST APIs  
-Authentication & authorization  
-Caching  
-Database access  
-Rate limiting  
-RLS / access control
-
-</td>
-<td width="33%" valign="top">
-
-**SYSTEMS**
-
-DNS  
-UDP / TCP  
-Non-blocking I/O  
-In-memory lookup  
-Concurrency constraints  
-Performance measurement
-
-</td>
-<td width="33%" valign="top">
-
-**SIMULATION & DATA**
-
-Python / NumPy  
-Statistical analysis  
-Analytical validation  
-Data parsing  
-Machine-readable datasets  
-Dashboards
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
