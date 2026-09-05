@@ -30,7 +30,7 @@ I work on software where the interesting part is **under the interface** — how
 <tr>
 <td width="50%" valign="top">
 
-### ⚛️ QKDSimFlow
+### ◈ QKDSimFlow
 
 **Quantum Key Distribution Simulator**
 
@@ -43,7 +43,7 @@ Interactive BB84 simulation covering channel attenuation, noise, intercept-resen
 </td>
 <td width="50%" valign="top">
 
-### 🌐 ShieldDNS
+### ◈ ShieldDNS
 
 **DNS Filtering & Monitoring System**
 
@@ -59,7 +59,7 @@ Custom DNS filtering for UDP/TCP traffic using a 170K+ domain dataset, parent-do
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ TaskFlow
+### ◈ TaskFlow
 
 **Multi-User Task Management**
 
@@ -96,19 +96,6 @@ Collection and parsing pipelines that turn unstructured interview logs into cate
 
 <br>
 
-<table>
-<tr>
-<td align="center"><b>01 · DEFINE</b><br><sub>What is actually being solved?</sub></td>
-<td align="center"><b>02 · MODEL</b><br><sub>What should the system do?</sub></td>
-<td align="center"><b>03 · BUILD</b><br><sub>Turn the model into a system.</sub></td>
-</tr>
-<tr>
-<td align="center"><b>04 · TEST</b><br><sub>Where does the implementation break?</sub></td>
-<td align="center"><b>05 · MEASURE</b><br><sub>Does reality match expectation?</sub></td>
-<td align="center"><b>06 · ITERATE</b><br><sub>Fix the system, model, or assumption.</sub></td>
-</tr>
-</table>
-
 > **"It works" is a starting point, not the conclusion.**
 
 I care about making behaviour explainable and testable — especially when a system has constraints, failure modes or assumptions that are easy to hide behind a successful demo.
@@ -119,7 +106,7 @@ I care about making behaviour explainable and testable — especially when a sys
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,react,reactnative,nodejs,express,fastapi,mongodb,postgres,supabase,docker,git,github,postman&perline=8" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,react,flutter,nodejs,express,fastapi,mongodb,postgres,supabase,docker,git,github,postman&perline=8" alt="Technology stack">
 
 </div>
 
