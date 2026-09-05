@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img">
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="470" rx="22" fill="#0D1117"/>
+<text x="450" y="38" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="13" letter-spacing="3">A SMALL EASTER EGG</text>
+
+<!-- board -->
+<g transform="translate(250 65)">
+  <rect x="0" y="0" width="340" height="340" rx="6" fill="#111827" stroke="#30363D" stroke-width="3"/>
+  <g>
+    <rect x="0" y="0" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="42.5" y="0" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="85" y="0" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="127.5" y="0" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="170" y="0" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="212.5" y="0" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="255" y="0" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="297.5" y="0" width="42.5" height="42.5" fill="#30363D"/>
+
+    <rect x="0" y="42.5" width="42.5" height="42.5" fill="#30363D"/><rect x="42.5" y="42.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="85" y="42.5" width="42.5" height="42.5" fill="#30363D"/><rect x="127.5" y="42.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="170" y="42.5" width="42.5" height="42.5" fill="#30363D"/><rect x="212.5" y="42.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="255" y="42.5" width="42.5" height="42.5" fill="#30363D"/><rect x="297.5" y="42.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+
+    <rect x="0" y="85" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="42.5" y="85" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="85" y="85" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="127.5" y="85" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="170" y="85" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="212.5" y="85" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="255" y="85" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="297.5" y="85" width="42.5" height="42.5" fill="#30363D"/>
+
+    <rect x="0" y="127.5" width="42.5" height="42.5" fill="#30363D"/><rect x="42.5" y="127.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="85" y="127.5" width="42.5" height="42.5" fill="#30363D"/><rect x="127.5" y="127.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="170" y="127.5" width="42.5" height="42.5" fill="#30363D"/><rect x="212.5" y="127.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="255" y="127.5" width="42.5" height="42.5" fill="#30363D"/><rect x="297.5" y="127.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+
+    <rect x="0" y="170" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="42.5" y="170" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="85" y="170" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="127.5" y="170" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="170" y="170" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="212.5" y="170" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="255" y="170" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="297.5" y="170" width="42.5" height="42.5" fill="#30363D"/>
+
+    <rect x="0" y="212.5" width="42.5" height="42.5" fill="#30363D"/><rect x="42.5" y="212.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="85" y="212.5" width="42.5" height="42.5" fill="#30363D"/><rect x="127.5" y="212.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="170" y="212.5" width="42.5" height="42.5" fill="#30363D"/><rect x="212.5" y="212.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="255" y="212.5" width="42.5" height="42.5" fill="#30363D"/><rect x="297.5" y="212.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+
+    <rect x="0" y="255" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="42.5" y="255" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="85" y="255" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="127.5" y="255" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="170" y="255" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="212.5" y="255" width="42.5" height="42.5" fill="#30363D"/>
+    <rect x="255" y="255" width="42.5" height="42.5" fill="#C9D1D9"/><rect x="297.5" y="255" width="42.5" height="42.5" fill="#30363D"/>
+
+    <rect x="0" y="297.5" width="42.5" height="42.5" fill="#30363D"/><rect x="42.5" y="297.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="85" y="297.5" width="42.5" height="42.5" fill="#30363D"/><rect x="127.5" y="297.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="170" y="297.5" width="42.5" height="42.5" fill="#30363D"/><rect x="212.5" y="297.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+    <rect x="255" y="297.5" width="42.5" height="42.5" fill="#30363D"/><rect x="297.5" y="297.5" width="42.5" height="42.5" fill="#C9D1D9"/>
+  </g>
+
+  <!-- Knight -->
+  <text x="63" y="326" font-size="42" fill="#0D1117">♞</text>
+  <text x="318" y="80" font-size="42" fill="#F0F6FC">♘</text>
+
+  <!-- animated move path -->
+  <path d="M63 318 Q170 180 318 72" fill="none" stroke="#58A6FF" stroke-width="3" stroke-dasharray="8 8" opacity=".8"/>
+  <circle r="6" fill="#58A6FF" filter="url(#glow)">
+    <animateMotion dur="2.5s" repeatCount="indefinite" path="M63 318 Q170 180 318 72"/>
+  </circle>
+</g>
+
+<text x="450" y="442" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="14">
+THINK AHEAD · TEST THE MOVE · ADAPT
+</text>
+</svg>

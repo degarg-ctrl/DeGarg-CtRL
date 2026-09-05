@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0" stop-color="#070B12"/>
+    <stop offset=".5" stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#070B12"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#58A6FF"/>
+    <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M48 0H0V48" fill="none" stroke="#58A6FF" stroke-opacity=".06"/>
+  </pattern>
+</defs>
+<rect width="1200" height="260" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="260" rx="20" fill="url(#grid)"/>
+
+<g fill="none" stroke="#58A6FF" stroke-opacity=".12">
+  <path d="M80 195 C250 80 360 235 520 120 S820 35 1120 165"/>
+  <path d="M60 225 C250 120 380 245 560 145 S850 70 1140 205"/>
+</g>
+
+<g filter="url(#glow)">
+  <circle cx="520" cy="120" r="3" fill="#58A6FF">
+    <animate attributeName="cx" values="100;1100;100" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="185;75;185" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<text x="600" y="105" text-anchor="middle" fill="#58A6FF"
+      font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700"
+      letter-spacing="7">DEVANSH GARG</text>
+
+<rect x="270" y="132" width="660" height="2" fill="url(#line)">
+  <animate attributeName="x" values="270;350;270" dur="3s" repeatCount="indefinite"/>
+  <animate attributeName="width" values="660;500;660" dur="3s" repeatCount="indefinite"/>
+</rect>
+
+<text x="600" y="174" text-anchor="middle" fill="#C9D1D9"
+      font-family="monospace" font-size="18" letter-spacing="4">
+  SOFTWARE · SYSTEMS · SIMULATION
+</text>
+
+<text x="600" y="211" text-anchor="middle" fill="#8B949E"
+      font-family="monospace" font-size="13">
+  BUILD → MEASURE → BREAK → UNDERSTAND → REBUILD
+</text>
+
+<g fill="#58A6FF">
+  <circle cx="95" cy="65" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="70" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1040" cy="225" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="140" cy="215" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+</g>
+</svg>

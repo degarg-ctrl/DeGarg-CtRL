@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" role="img">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#58A6FF" stop-opacity=".15"/><stop offset=".5" stop-color="#58A6FF"/><stop offset="1" stop-color="#58A6FF" stop-opacity=".15"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="250" rx="20" fill="#0D1117"/>
+<text x="500" y="45" text-anchor="middle" fill="#58A6FF" font-family="monospace" font-size="14" letter-spacing="3">QKDSIMFLOW · ACTIVE</text>
+<path d="M90 125 H910" stroke="#30363D" stroke-width="4"/>
+<path d="M90 125 H910" stroke="url(#g)" stroke-width="4" stroke-dasharray="70 840">
+<animate attributeName="stroke-dashoffset" from="0" to="-910" dur="3s" repeatCount="indefinite"/>
+</path>
+<g font-family="monospace" text-anchor="middle">
+  <g><circle cx="130" cy="125" r="42" fill="#111827" stroke="#58A6FF"/><text x="130" y="130" fill="#C9D1D9" font-size="12">IMPLEMENT</text></g>
+  <g><circle cx="320" cy="125" r="42" fill="#111827" stroke="#30363D"/><text x="320" y="130" fill="#C9D1D9" font-size="12">EXECUTE</text></g>
+  <g><circle cx="500" cy="125" r="42" fill="#111827" stroke="#30363D"/><text x="500" y="130" fill="#C9D1D9" font-size="12">ANALYSE</text></g>
+  <g><circle cx="680" cy="125" r="42" fill="#111827" stroke="#30363D"/><text x="680" y="130" fill="#C9D1D9" font-size="12">VALIDATE</text></g>
+  <g><circle cx="870" cy="125" r="42" fill="#111827" stroke="#30363D"/><text x="870" y="130" fill="#C9D1D9" font-size="12">ITERATE</text></g>
+</g>
+<circle cx="130" cy="125" r="5" fill="#58A6FF" filter="url(#glow)">
+  <animate attributeName="cx" values="130;320;500;680;870;130" dur="5s" repeatCount="indefinite"/>
+</circle>
+<text x="500" y="205" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="12">
+implementation → configuration → raw execution → statistics → acceptance criteria
+</text>
+</svg>

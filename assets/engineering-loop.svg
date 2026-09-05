@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img">
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="path" x1="0" x2="1">
+    <stop offset="0" stop-color="#58A6FF" stop-opacity=".2"/>
+    <stop offset=".5" stop-color="#58A6FF"/>
+    <stop offset="1" stop-color="#58A6FF" stop-opacity=".2"/>
+  </linearGradient>
+</defs>
+<rect width="1000" height="520" rx="22" fill="#0D1117"/>
+
+<text x="500" y="48" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="14" letter-spacing="3">
+ENGINEERING LOOP
+</text>
+
+<path d="M180 145 H820 Q880 145 880 205 V310 Q880 375 820 375 H180 Q120 375 120 315 V205 Q120 145 180 145Z"
+      fill="none" stroke="#30363D" stroke-width="3"/>
+
+<path d="M180 145 H820 Q880 145 880 205 V310 Q880 375 820 375 H180 Q120 375 120 315 V205 Q120 145 180 145Z"
+      fill="none" stroke="url(#path)" stroke-width="3" stroke-dasharray="70 800">
+  <animate attributeName="stroke-dashoffset" from="0" to="-870" dur="5s" repeatCount="indefinite"/>
+</path>
+
+<g font-family="monospace" text-anchor="middle">
+  <g>
+    <circle cx="180" cy="145" r="48" fill="#111827" stroke="#30363D" stroke-width="2"/>
+    <circle cx="180" cy="145" r="48" fill="none" stroke="#58A6FF" stroke-width="2" stroke-dasharray="0 302">
+      <animate attributeName="stroke-dasharray" values="0 302;302 0;0 302" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="180" y="141" fill="#58A6FF" font-size="13" font-weight="700">DEFINE</text>
+    <text x="180" y="158" fill="#8B949E" font-size="10">problem</text>
+  </g>
+  <g>
+    <circle cx="500" cy="145" r="48" fill="#111827" stroke="#30363D" stroke-width="2"/>
+    <text x="500" y="141" fill="#58A6FF" font-size="13" font-weight="700">MODEL</text>
+    <text x="500" y="158" fill="#8B949E" font-size="10">assumptions</text>
+  </g>
+  <g>
+    <circle cx="820" cy="145" r="48" fill="#111827" stroke="#30363D" stroke-width="2"/>
+    <text x="820" y="141" fill="#58A6FF" font-size="13" font-weight="700">BUILD</text>
+    <text x="820" y="158" fill="#8B949E" font-size="10">system</text>
+  </g>
+  <g>
+    <circle cx="820" cy="375" r="48" fill="#111827" stroke="#30363D" stroke-width="2"/>
+    <text x="820" y="371" fill="#58A6FF" font-size="13" font-weight="700">TEST</text>
+    <text x="820" y="388" fill="#8B949E" font-size="10">failure modes</text>
+  </g>
+  <g>
+    <circle cx="500" cy="375" r="48" fill="#111827" stroke="#30363D" stroke-width="2"/>
+    <text x="500" y="371" fill="#58A6FF" font-size="13" font-weight="700">MEASURE</text>
+    <text x="500" y="388" fill="#8B949E" font-size="10">evidence</text>
+  </g>
+  <g>
+    <circle cx="180" cy="375" r="48" fill="#111827" stroke="#30363D" stroke-width="2"/>
+    <text x="180" y="371" fill="#58A6FF" font-size="13" font-weight="700">ITERATE</text>
+    <text x="180" y="388" fill="#8B949E" font-size="10">improve</text>
+  </g>
+</g>
+
+<g filter="url(#glow)">
+  <circle r="7" fill="#58A6FF">
+    <animateMotion dur="5s" repeatCount="indefinite"
+      path="M180 145 H820 Q880 145 880 205 V310 Q880 375 820 375 H180 Q120 375 120 315 V205 Q120 145 180 145Z"/>
+  </circle>
+</g>
+
+<text x="500" y="465" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="15">
+"IT WORKS" IS A STARTING POINT — NOT THE CONCLUSION.
+</text>
+</svg>

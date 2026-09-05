@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" role="img">
+<rect width="900" height="250" rx="20" fill="#0D1117" stroke="#30363D"/>
+<circle cx="28" cy="28" r="6" fill="#8B949E"/><circle cx="48" cy="28" r="6" fill="#8B949E"/><circle cx="68" cy="28" r="6" fill="#8B949E"/>
+<text x="30" y="75" fill="#8B949E" font-family="monospace" font-size="15">$ ./build</text>
+<text x="30" y="108" fill="#58A6FF" font-family="monospace" font-size="14">[✓] understand problem</text>
+<text x="30" y="136" fill="#58A6FF" font-family="monospace" font-size="14">[✓] design system</text>
+<text x="30" y="164" fill="#58A6FF" font-family="monospace" font-size="14">[✓] write code</text>
+<text x="30" y="192" fill="#58A6FF" font-family="monospace" font-size="14">[✓] test assumptions</text>
+<text x="30" y="220" fill="#8B949E" font-family="monospace" font-size="14">[→] repeat</text>
+<rect x="126" y="207" width="9" height="17" fill="#58A6FF">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>
