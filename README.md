@@ -22,7 +22,7 @@
 
 ---
 
-## `01` · WHAT I BUILD
+## WHAT I BUILD
 
 I work on software where the interesting part is **under the interface** — how data moves, where systems bottleneck, how components fail, and whether the implementation behaves the way the model says it should.
 
@@ -86,7 +86,7 @@ Collection and parsing pipelines that turn unstructured interview logs into cate
 
 ---
 
-## `02` · HOW I ENGINEER
+## HOW I ENGINEER
 
 <div align="center">
 
@@ -115,7 +115,7 @@ I care about making behaviour explainable and testable — especially when a sys
 
 ---
 
-## `03` · UNDER THE HOOD
+## UNDER THE HOOD
 
 <div align="center">
 
@@ -165,49 +165,6 @@ Dashboards
 </td>
 </tr>
 </table>
-
----
-
-## `04` · GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="./assets/github-stats.svg" width="410" alt="GitHub activity snapshot">
-<img src="./assets/repo-languages.svg" width="410" alt="Repository language snapshot">
-
-</div>
-
----
-
-## `05` · REPOSITORY SNAPSHOT
-
-<div align="center">
-
-<a href="https://github.com/degarg-ctrl/DNS-Ad-Blocker"><img src="./assets/repo-dns.svg" width="410" alt="DNS-Ad-Blocker"></a>
-<a href="https://github.com/degarg-ctrl/QKD-Simulator-BB84"><img src="./assets/repo-qkd.svg" width="410" alt="QKD-Simulator-BB84"></a>
-
-<br>
-
-<a href="https://github.com/degarg-ctrl/TaskFlow"><img src="./assets/repo-taskflow.svg" width="410" alt="TaskFlow"></a>
-<a href="https://github.com/degarg-ctrl/ExpenseTracker"><img src="./assets/repo-expense.svg" width="410" alt="ExpenseTracker"></a>
-
-</div>
-
----
-
-## `06` · ONE MORE THING
-
-<div align="center">
-
-<a href="https://github.com/degarg-ctrl/degarg-ctrl/blob/main/assets/game-of-life.svg">
-  <img src="./assets/game-of-life.svg" width="820" alt="GitHub contributions evolving as a Game of Life">
-</a>
-
-### ♟ CONTRIBUTIONS → CELLS → EVOLUTION
-
-<sub>Uses this profile's GitHub contribution graph as the initial state, inspired by <a href="https://github.com/ethomson#how-does-it-work">Edward Thomson's GitHub contributions as a Game of Life</a>.</sub>
-
-</div>
 
 ---
 
