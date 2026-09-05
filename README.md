@@ -168,113 +168,44 @@ Dashboards
 
 ---
 
-## `04` · ENGINEERING SIGNAL
+## `04` · GITHUB ACTIVITY
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### `170K+`
-blocked domains
-
-</td>
-<td align="center" width="25%">
-
-### `<50ms`
-DNS latency
-
-</td>
-<td align="center" width="25%">
-
-### `3,000+`
-daily active users
-
-</td>
-<td align="center" width="25%">
-
-### `9`
-RBAC roles
-
-</td>
-</tr>
-</table>
-
-<sub>Selected figures from systems I've built and worked on — not generic profile statistics.</sub>
+<img src="./assets/github-stats.svg" width="410" alt="GitHub activity snapshot">
+<img src="./assets/repo-languages.svg" width="410" alt="Repository language snapshot">
 
 </div>
 
 ---
 
-## `05` · CURRENTLY BUILDING
+## `05` · REPOSITORY SNAPSHOT
 
 <div align="center">
 
-<img src="./assets/qkdsimflow.svg" width="820" alt="QKDSimFlow — implementation, execution, analysis, validation, iteration">
-
-### QKDSimFlow
-
-`IMPLEMENT` → `EXECUTE` → `ANALYSE` → `VALIDATE` → `ITERATE`
-
-</div>
-
-The current focus is not just making a quantum key distribution simulator run. It is making the path from **implementation and configuration → raw execution → statistical analysis → acceptance criteria** traceable enough to expose where the model or implementation needs improvement.
-
----
-
-## `06` · GITHUB ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/degarg-ctrl">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=degarg-ctrl&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics">
-</a>
-<a href="https://github.com/degarg-ctrl">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degarg-ctrl&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages">
-</a>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/degarg-ctrl/degarg-ctrl/output/github-contribution-grid-snake.svg" alt="Animated contribution snake">
-
-</div>
-
----
-
-## `07` · REPOSITORY SNAPSHOT
-
-<div align="center">
-
-<a href="https://github.com/degarg-ctrl/DNS-Ad-Blocker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=degarg-ctrl&repo=DNS-Ad-Blocker&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" alt="DNS-Ad-Blocker">
-</a>
-<a href="https://github.com/degarg-ctrl/QKD-Simulator-BB84">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=degarg-ctrl&repo=QKD-Simulator-BB84&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" alt="QKD-Simulator-BB84">
-</a>
+<a href="https://github.com/degarg-ctrl/DNS-Ad-Blocker"><img src="./assets/repo-dns.svg" width="410" alt="DNS-Ad-Blocker"></a>
+<a href="https://github.com/degarg-ctrl/QKD-Simulator-BB84"><img src="./assets/repo-qkd.svg" width="410" alt="QKD-Simulator-BB84"></a>
 
 <br>
 
-<a href="https://github.com/degarg-ctrl/TaskFlow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=degarg-ctrl&repo=TaskFlow&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" alt="TaskFlow">
-</a>
-<a href="https://github.com/degarg-ctrl/ExpenseTracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=degarg-ctrl&repo=ExpenseTracker&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" alt="ExpenseTracker">
-</a>
+<a href="https://github.com/degarg-ctrl/TaskFlow"><img src="./assets/repo-taskflow.svg" width="410" alt="TaskFlow"></a>
+<a href="https://github.com/degarg-ctrl/ExpenseTracker"><img src="./assets/repo-expense.svg" width="410" alt="ExpenseTracker"></a>
 
 </div>
 
 ---
 
-## `08` · ONE MORE THING
+## `06` · ONE MORE THING
 
 <div align="center">
 
-<img src="./assets/chess.svg" width="760" alt="Animated chessboard">
+<a href="https://github.com/degarg-ctrl/degarg-ctrl/blob/main/assets/game-of-life.svg">
+  <img src="./assets/game-of-life.svg" width="820" alt="GitHub contributions evolving as a Game of Life">
+</a>
 
-### ♟ THINK AHEAD · TEST THE MOVE · ADAPT ♟
+### ♟ CONTRIBUTIONS → CELLS → EVOLUTION
 
-<sub>A small nod to the other way I like solving problems.</sub>
+<sub>Uses this profile's GitHub contribution graph as the initial state, inspired by <a href="https://github.com/ethomson#how-does-it-work">Edward Thomson's GitHub contributions as a Game of Life</a>.</sub>
 
 </div>
 

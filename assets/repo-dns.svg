@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 190" role="img">
+<rect width="820" height="190" rx="18" fill="#0D1117" stroke="#30363D"/>
+<circle cx="34" cy="34" r="7" fill="#58A6FF"/>
+<text x="55" y="40" fill="#F0F6FC" font-family="monospace" font-size="17" font-weight="700">DNS-Ad-Blocker</text>
+<text x="34" y="82" fill="#C9D1D9" font-family="monospace" font-size="12">DNS filtering · 170K+ domains · React Native dashboard</text>
+<text x="34" y="125" fill="#58A6FF" font-family="monospace" font-size="12">Node.js · DNS · MongoDB · React Native</text>
+<text x="34" y="158" fill="#8B949E" font-family="monospace" font-size="11">↗ open repository</text>
+</svg>
